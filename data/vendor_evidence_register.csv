@@ -1,1 +1,16 @@
-
+vendor_id,evidence_item,evidence_type,evidence_status,evidence_quality,review_notes
+V-001,ISO 27001 certificate,Security Certification,Provided,Good,Certificate provided and appears current
+V-001,Data processing agreement,Privacy Contract,Provided,Good,DPA provided and linked to service scope
+V-002,Security questionnaire,Security Assessment,Provided,Partial,Questionnaire provided but some answers lack detail
+V-002,Incident notification procedure,Incident Response Evidence,Partial,Weak,Incident notification timeframe is not clearly defined
+V-003,Security questionnaire,Security Assessment,Provided,Partial,MFA and subprocessors require clarification
+V-003,Retention policy,Privacy Evidence,Missing,Weak,Retention evidence not provided
+V-004,ISO 27001 certificate,Security Certification,Provided,Good,Certification provided and scope is relevant
+V-004,Encryption evidence,System Configuration,Provided,Good,Encryption at rest and transit evidence provided
+V-005,Data processing agreement,Privacy Contract,Provided,Good,DPA provided
+V-005,Encryption evidence,System Configuration,Partial,Partial,Encryption at rest evidence is incomplete
+V-006,Subprocessor list,Privacy Evidence,Missing,Weak,Subprocessors not declared
+V-006,Privacy policy and retention schedule,Privacy Evidence,Missing,Weak,Retention and data residency evidence missing
+V-007,Security certification and DPA,Security and Privacy Evidence,Provided,Good,Security and privacy evidence appears complete
+V-008,Incident notification procedure,Incident Response Evidence,Missing,Weak,Incident notification procedure not provided
+V-008,Data residency statement,Privacy Evidence,Partial,Partial,Residency statement requires clarification
