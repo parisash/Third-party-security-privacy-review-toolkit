@@ -1,1 +1,9 @@
-
+vendor_id,personal_data_processed,sensitive_data_processed,data_minimisation_reviewed,retention_period_defined,data_residency_known,dpia_required,dpa_required,privacy_risk_notes
+V-001,Yes,Yes,Partial,Yes,Yes,Yes,Yes,Processes customer analytics data and requires clear data minimisation evidence
+V-002,Yes,Yes,Yes,Partial,Yes,Yes,Yes,Processes HR records and requires stronger retention evidence
+V-003,Yes,No,Partial,No,Partial,Yes,Yes,Collects survey responses and requires retention and residency clarification
+V-004,Yes,No,Yes,Yes,Yes,No,Yes,Processes invoice and finance workflow data with defined controls
+V-005,Yes,No,Partial,Partial,Yes,Yes,Yes,Processes customer support data and requires minimisation and retention clarification
+V-006,Yes,No,No,No,No,Yes,Yes,LMS vendor lacks clear privacy handling details and subprocessors are not declared
+V-007,Yes,No,Yes,Yes,Yes,No,Yes,Digital signing workflow has documented privacy and retention controls
+V-008,Yes,Yes,Partial,Partial,Partial,Yes,Yes,Processes sensitive data through API and requires stronger residency and incident notification evidence
