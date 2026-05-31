@@ -1,1 +1,9 @@
-
+vendor_id,vendor_name,service_type,data_access_level,criticality,security_contact,iso_27001_certified,mfa_enforced,encryption_at_rest,encryption_in_transit,incident_notification_defined,subprocessors_declared,business_owner,review_status
+V-001,CloudForms Analytics,Customer analytics platform,Sensitive,High,security@cloudforms.example,Yes,Yes,Yes,Yes,Yes,Yes,Marketing Team,In Review
+V-002,PeopleTrack HR,HR records management,Sensitive,Critical,security@peopletrack.example,No,Yes,Yes,Yes,Partial,Yes,HR Team,In Review
+V-003,QuickSurvey Pro,Survey and feedback collection,Personal,Medium,security@quicksurvey.example,No,Partial,Yes,Yes,No,Partial,Research Team,Open
+V-004,InvoiceFlow,Invoice processing and finance workflow,Confidential,High,security@invoiceflow.example,Yes,Yes,Yes,Yes,Yes,Yes,Finance Team,Approved With Conditions
+V-005,SupportDesk Online,Customer support ticketing,Personal,High,security@supportdesk.example,Partial,Yes,Partial,Yes,Yes,Yes,Customer Operations Team,In Review
+V-006,LearnHub LMS,Learning management system,Personal,Medium,security@learnhub.example,No,Partial,Yes,Yes,Partial,No,Training Team,Open
+V-007,DocuSignage,Digital signing workflow,Confidential,High,security@docusignage.example,Yes,Yes,Yes,Yes,Yes,Yes,Legal Team,Approved
+V-008,DataClean API,Data processing and enrichment API,Sensitive,Critical,security@dataclean.example,Partial,Yes,Yes,Yes,No,Partial,Data Governance Team,In Review
